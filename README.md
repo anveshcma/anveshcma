@@ -22,6 +22,10 @@ This is Anvesh Koganti.
 - <i>Current Position:</i> MS CS Student at University of Illinois at Chicago. 
 - Upcoming Solutions Architect at AWS
 
+<!--
+<h2>About Me:</h2>
+-->
+
 <h2>Current Courses - Spring 2022</h2>
 
 - CS474 Object-Oriented Languages and Environments
@@ -34,7 +38,7 @@ This is Anvesh Koganti.
 - CS494 Info. Retrieval & Web Search
 
 
-__Check out my GitHub repository:__
+<h2>My Projects</h2>
 
 <div>
   <p>
@@ -64,6 +68,9 @@ __Check out my GitHub repository:__
 -->
   </p>
 </div>
+<h2>Get in touch:</h2>
+
+<a href="mailto:anveshcma@gmail.com">![anveshcma@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/anvesh-koganti/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!--
 <h2> About Me :</h2>
 
@@ -71,6 +78,4 @@ I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjo
 
 - Write to me: [anveshcma@gmail.com](mailto:anveshcma@gmail.com)
 -->
-<h2>📫 How to reach me:</h2>
 
-<a href="mailto:anveshcma@gmail.com">![anveshcma@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/anvesh-koganti/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
