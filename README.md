@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anvesh Koganti](./pexels-andy-vu-3244513.jpg)
+<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
+<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
 This is Anvesh Koganti. 
 - <i>Current Position:</i> MS CS Student at University of Illinois at Chicago. 
@@ -55,8 +58,10 @@ __Check out my GitHub repository:__
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anveshcma" alt="GitHub Stats" /> <br/><br/>
+    <!--
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anveshcma" alt="WakaTime" />
+-->
   </p>
 </div>
 <!--
